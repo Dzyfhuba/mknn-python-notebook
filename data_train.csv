@@ -1,0 +1,21 @@
+﻿No,Hotel,LT,ADY,ADM,ADWM,ADOM,SIWN,SIW2N,Adults,Childern,Babies,Meal,Country,MS,DC,IRG,PC,PBNC,RRT,ART,BC,DT,Agent,Company,DIWL,CT,ADR,RCPS,TOSR,RS
+1,1,71,2016,9,37,10,2,2,3,0,0,BB,COL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9,NULL,0,Transient,168.3,0,2,Canceled
+2,2,96,2017,2,11,12,4,7,2,0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,NULL,NULL,0,Transient-Party,8,0,0,Canceled
+3,1,34,2015,12,50,8,0,2,1,0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,19,NULL,0,Transient,90,0,0,Canceled
+4,1,418,2016,9,40,26,1,2,2,0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,21,NULL,223,Transient-Party,75,0,0,Canceled
+5,2,100,2017,4,17,29,2,1,2,0,0,HB,PRT,Groups,TA/TO,0,0,0,D,D,0,No Deposit,385,NULL,0,Transient-Party,85,0,0,Canceled
+6,2,115,2016,11,47,17,1,3,2,0,0,BB,PRT,Groups,Direct,0,0,0,A,A,0,No Deposit,NULL,NULL,0,Transient-Party,34,0,0,Canceled
+7,1,239,2017,8,34,25,0,1,2,2,0,BB,AGO,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9,NULL,0,Transient,189,0,1,Canceled
+8,1,180,2017,7,27,6,0,3,2,0,0,SC,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9,NULL,0,Transient,89.1,0,0,Canceled
+9,2,42,2015,8,35,28,1,2,2,2,0,BB,PRT,Online TA,TA/TO,0,0,0,G,G,1,No Deposit,240,NULL,0,Transient,195,0,2,Canceled
+10,2,19,2015,10,43,21,0,2,1,0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,208,NULL,0,Transient-Party,60,0,0,Canceled
+11,1,99,2016,4,18,27,2,6,2,0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,121,NULL,0,Transient-Party,80.75,0,1,Check-Out
+12,1,26,2017,5,20,17,0,2,1,0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,474,NULL,0,Transient-Party,130,0,0,Check-Out
+13,2,155,2015,7,31,30,2,5,2,0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,243,NULL,0,Contract,110.5,0,1,Check-Out
+14,1,119,2016,6,24,7,0,0,1,0,0,BB,PRT,Offline TA/TO,Corporate,0,0,0,A,A,1,No Deposit,191,NULL,0,Transient-Party,0,0,0,Check-Out
+15,2,12,2016,10,44,23,2,1,2,0,0,BB,SWE,Groups,Corporate,0,0,0,D,D,1,No Deposit,NULL,NULL,0,Transient-Party,65,1,0,Check-Out
+16,2,107,2016,9,40,25,4,5,2,2,0,BB,GBR,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240,NULL,0,Transient,169,0,0,Check-Out
+17,2,76,2017,5,22,31,0,4,2,0,0,BB,CHE,Online TA,TA/TO,0,0,0,E,E,1,No Deposit,240,NULL,0,Transient,155.5,1,0,Check-Out
+18,1,231,2017,5,21,25,1,3,2,0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7,NULL,0,Transient,82.47,0,1,Check-Out
+19,2,11,2015,7,28,10,0,2,2,0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240,NULL,0,Transient,110.5,0,1,Check-Out
+20,1,1,2016,3,13,24,0,2,3,0,0,BB,ESP,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9,NULL,0,Transient,182,0,2,Check-Out
